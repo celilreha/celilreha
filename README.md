@@ -3,7 +3,6 @@
 My name is Celil Reha Esgice. 
 
 - 🔭 I’m currently working on Django.
-- 🌱 I’m currently learning PHP Symfony thanks to Patika.dev.
 - 📭 I want to learn Mobile Game Development.
 
 <!--
