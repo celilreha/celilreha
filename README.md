@@ -2,7 +2,7 @@
 
 My name is Celil Reha Esgice. 
 
-- 🔭 I’m currently working on Django.
+- 🔭 I’m currently working on Spring Boot.
 - 📭 I want to learn Mobile Game Development.
 
 <!--
